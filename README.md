@@ -1,6 +1,10 @@
 <h1 align="center"> mern-boilerplate </h1>
 
-#### tech stack:  
+#### Home page:  
+
+<img width = "800" src="https://i.imgur.com/a7YFo86.png"/>  
+
+#### Tech stack:  
 
 Client-side | Server-side
 --- | ---
@@ -14,7 +18,3 @@ react-router-dom | mongoose
 redux | morgan
 redux-thunk |
 chakra ui |
-
-#### Home page:  
-
-<img width = "800" src="https://i.imgur.com/a7YFo86.png"/>  
