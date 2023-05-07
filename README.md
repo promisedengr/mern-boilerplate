@@ -2,12 +2,18 @@
 
 #### tech stack:  
 
- 1. Mongo Db  
- 2. Expressjs  
- 3. Reactjs (v17)
- 4. Nodejs  
- 5. Chakra Ui  
- 6. Redux  
+Client-side | Server-side
+--- | ---
+axios | bcrypt-nodejs
+babel-preset-stage-1|body-parser
+lodash | cors
+react | dotenv
+react-dom | express
+react-redux | jwt-simple
+react-router-dom | mongoose
+redux | morgan
+redux-thunk |
+chakra ui |
 
 #### Home page:  
 
